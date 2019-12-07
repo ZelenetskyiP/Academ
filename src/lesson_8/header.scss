@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: center;
+  height: 62px;
+}
+
+.header__conteiner {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__menu {
+  display: flex;
+  align-items: center;
+}
+.header__menu-list {
+  margin-left: 50px;
+}
+.header__menu-item {
+  color: #111111;
+  font-size: 15px;
+}

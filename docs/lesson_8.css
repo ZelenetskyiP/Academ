@@ -1,0 +1,4 @@
+*{box-sizing:border-box}html{font-size:15px;font-family:sans-serif;font-weight:500;color:#292929}body{min-height:100vh;height:100%}body,h1,h2,h3,h4,h5,h6,ul,ol,p{padding:0;margin:0}a{text-decoration:none}ul,ol{list-style:none}h1,h2,h3,h4,h5,h6{font-weight:700}button,input,textarea{font-size:1rem;outline:none}.header{display:flex;justify-content:center;height:62px}.header__conteiner{display:flex;width:90%;justify-content:space-between;align-items:center}.header__menu{display:flex;align-items:center}.header__menu-list{margin-left:50px}.header__menu-item{color:#111111;font-size:15px}
+
+
+/*# sourceMappingURL=lesson_8.css.map*/

@@ -10,5 +10,14 @@
   ],
   "lesson_9": [
     "./src/lesson_9/lesson_9.js"
+  ],
+  "lesson_9a": [
+    "./src/lesson_9a/lesson_9a.js"
+  ],
+  "lesson_11": [
+    "./src/lesson_11/lesson_11.js"
+  ],
+  "lesson_13": [
+    "./src/lesson_13/lesson_13.js"
   ]
 }

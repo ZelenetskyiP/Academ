@@ -131,7 +131,14 @@
 //   Добавьтесвойство surname созначениемПетров.
 //   Поменяйтезначение name наСергей.
 //   Удалитесвойство name изобъект
-var user = {};
+// const user = {};
+// user.name = "Vasya";
+// user.surname = "Petrov";
+// user.name = "Sergio";
+// delete user.name;
+// console.log(user);
+// //////////////////////////////////////
+// Создайтефункцию isEmpty(obj), которая возвращает true, если в объекте нет свойств и false – если хоть одно свойство есть.
 
 /***/ }),
 
@@ -174,8 +181,6 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
-
 // const user = {
 //   name: "Alex",
 //   age: "18"
@@ -188,12 +193,12 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 // alert(user["is Man"]);
 // console.log(user);
 /////////////////////////////////////////////
-var fruits = prompt("Какой фрукт купить?");
-
-var fruit = _defineProperty({}, fruits, 5);
-
-alert(fruit[fruits]);
-console.log(fruit);
+// const fruits = prompt("Какой фрукт купить?");
+// let fruit = {
+//   [fruits]: 5
+// };
+// alert(fruit[fruits]);
+// console.log(fruit);
 
 /***/ }),
 

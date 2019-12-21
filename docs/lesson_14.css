@@ -1,0 +1,5 @@
+
+.slideshow{max-width:450px;position:relative;border:1px solid red;display:flex}.slide{width:100%;flex:0 0 100%;opacity:0;visibility:hidden}.slide.active{opacity:1;visibility:visible}.slide>img{width:100%;display:block}
+
+
+/*# sourceMappingURL=lesson_14.css.map*/

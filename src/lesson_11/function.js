@@ -40,4 +40,12 @@
 //   Поменяйтезначение name наСергей.
 //   Удалитесвойство name изобъект
 
-const user = {};
+// const user = {};
+// user.name = "Vasya";
+// user.surname = "Petrov";
+// user.name = "Sergio";
+// delete user.name;
+
+// console.log(user);
+// //////////////////////////////////////
+// Создайтефункцию isEmpty(obj), которая возвращает true, если в объекте нет свойств и false – если хоть одно свойство есть.

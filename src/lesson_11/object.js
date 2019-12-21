@@ -10,10 +10,10 @@
 // alert(user["is Man"]);
 // console.log(user);
 /////////////////////////////////////////////
-const fruits = prompt("Какой фрукт купить?");
+// const fruits = prompt("Какой фрукт купить?");
 
-let fruit = {
-  [fruits]: 5
-};
-alert(fruit[fruits]);
-console.log(fruit);
+// let fruit = {
+//   [fruits]: 5
+// };
+// alert(fruit[fruits]);
+// console.log(fruit);
